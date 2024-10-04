@@ -4,9 +4,11 @@
 	"compatibilityLevel": "JAVA_17",
 	"refmap": "wnf.refmap.json",
 	"mixins": [
-		"WNOutbackMixin"
+		"WNOutbackMixin",
+		"WildNatureMixin"
 	],
 	"client": [
 	],
-	"minVersion": "0.8"
+	"minVersion": "0.8",
+	"verbose": true
 }
